@@ -1,5 +1,13 @@
 # create-svelte
 
+
+From [Huntabyte](https://www.youtube.com/watch?v=lSm0GNnh-0I) using the new version of Supabase CLI.
+
+Changes made:
+- Using `@picocss` instead of custom classes.
+- Remove the usage of `hooks.client.ts` for supabase.
+- Added Database Definitions for type safety of the created project.
+
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
 ## Creating a project
